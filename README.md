@@ -1,9 +1,9 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
-[![Linkedin: Pankaj Kumar](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/akshay-kumar-sagar-261814152/)
+[![Linkedin: Akshay Kumar Sagar](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/akshay-kumar-sagar-261814152/)
 
 ### Hi there 👋, I'm [Akshay](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
 
-- 💫 **PhD** | [IMOD Lab, IIT Kharagpur](https://www.atmoslabiitkgp.com/phd-students/pankaj-kumar) | West Bengal, India
+- 💫 **PhD** | [IMOD Lab, IIT Kharagpur] | West Bengal, India
 - 🌟 **MTech in Earth System Science and Technology** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India 
 
 ## 💻 Languages & Tools
