@@ -15,42 +15,6 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" width="40"/>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="40"/>
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png" width="40"/>
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/d3/d3-logo/blob/master/d3.svg" width="40"/>
-      </a>
-      <br>D3.js
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" width="40"/>
-      </a>
-      <br>Three.js
-    </td> 
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="35"/>
-      </a>
-      <br>Bash
-    </td> 
-    <td align="center" width="96">
-      <a>
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35"/>
       </a>
       <br>SQL
