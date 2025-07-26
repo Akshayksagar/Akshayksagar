@@ -99,8 +99,6 @@
       <br>PyTorch
     </td> 
     <td align="center" width="96">
-      <a>
-        <img src="https://bids.berkeley.edu/sites/default/files/networkx-banner-full-4web.jpg" height="50"/>
       </a>
     </td>
   </tr>
