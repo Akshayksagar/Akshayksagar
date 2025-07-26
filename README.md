@@ -19,7 +19,6 @@
       </a>
       <br>SQL
     </td> 
-    <tr>
     <td align="center" width="96">
       <a>
         <img src="https://pluspng.com/img-png/python-logo-png-python-logo-png-img-1000-1000-free-transparent-python-png-900x900.jpg" width="40"/>
