@@ -55,7 +55,6 @@
       </a>
       <br>SQL
     </td> 
-    </tr>
     <tr>
     <td align="center" width="96">
       <a>
