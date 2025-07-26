@@ -1,13 +1,15 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
 [![Linkedin: Akshay Kumar Sagar](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/akshay-kumar-sagar-261814152/)
-
-### Hi there 👋, I'm [Akshay](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/Akshay-Sagar-2?ev=hdr_xprf)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://publuu.com/flip-book/934777/2049737)
+[![Twitter Follow](https://img.shields.io/twitter/follow/scientistno2?label=Follow)](https://x.com/A_KAY_96)
+### Hi there 👋, I'm [Akshay Kumar Sagar](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
 
 - 💫 **PhD** | [IMOD Lab, IIT Kharagpur] | West Bengal, India
 - 🌟 **MTech in Earth System Science and Technology** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India 
 - ⭐ BTech in Mechanical Engineering | AKTU | Lucknow, India
-- 🛰️ Remote Sensing | Oceanographer |Atmospheric Science | Data Science | Causal Learning
-- 🌎 Google Earth Engine enthusiast!
+- 🛰️ Remote Sensing | Oceanographer | Atmospheric Science | Data Science | Causal Learning
+- 🌎 Google Earth Engine enthusiast| Extreme Event Analyst | Catastrophe Modeler
 ## 💻 Languages & Tools
 <br>
 <table>
