@@ -24,31 +24,31 @@
     <td align="center" width="96">
       <a>
         <img src="https://pluspng.com/img-png/python-logo-png-python-logo-png-img-1000-1000-free-transparent-python-png-900x900.jpg" width="40"/>
-      </a>
+      <a>
       <br>Python
     </td>
      <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
-      </a>
+      <a>
       <br>MATLAB
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="35"/>
-      </a>
+      <a>
       <br>LaTeX
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" height="35"/>
-      </a>
+      <a>
       <br>MarkDown
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="35"/>
-      </a>
+      <a>
       <br>Git
     </td>
     <td align="center" width="96">
