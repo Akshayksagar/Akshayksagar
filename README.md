@@ -12,11 +12,6 @@
 <br>
 <table>
   <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://logodix.com/logo/470374.jpg" width="40"/>
-      </a>
-      <br>HTML
     </td>
     <td align="center" width="96">
       <a>
