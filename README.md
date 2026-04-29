@@ -3,7 +3,7 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/Akshay-Sagar-2?ev=hdr_xprf)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/172aQUpdbQvUhSvscbF11cIgdTV0P84Pu/view?usp=drive_link)
 [![Twitter Follow](https://img.shields.io/twitter/follow/scientistno2?label=Follow)](https://x.com/A_KAY_96)
-### Hi there 👋, I'm [Akshay Kumar Sagar](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
+### Hi there 👋, I'm [Dr. Akshay Kumar Sagar](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
 
 - 💫 **Project Scientist** | [NCMRWF, Ministry of Earth Sciences] | Govt. of India, Noida
 - 💫 **PhD** | [IMOD Lab, IIT Kharagpur] | West Bengal, India
