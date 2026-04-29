@@ -5,6 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/scientistno2?label=Follow)](https://x.com/A_KAY_96)
 ### Hi there 👋, I'm [Akshay Kumar Sagar](https://scholar.google.com/citations?user=JoTEyqAAAAAJ&hl=en)
 
+- 💫 **Project Scientist** | [NCMRWF, Ministry of Earth Sciences] | Govt. of India, Noida
 - 💫 **PhD** | [IMOD Lab, IIT Kharagpur] | West Bengal, India
 - 🌟 **MTech in Earth System Science and Technology** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India 
 - ⭐ BTech in Mechanical Engineering | AKTU | Lucknow, India
